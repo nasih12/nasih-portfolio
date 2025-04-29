@@ -1,0 +1,26 @@
+title: "Abdullah Nasih Ulwan - Software Developer"
+description: "Building scalable mobile and backend systems for the future."
+url: "https://nasih12.github.io"
+baseurl: "/nasihulwan-portfolio" # penting untuk link internal
+author:
+  name: "Abdullah Nasih Ulwan"
+  avatar: "/assets/images/profile.png"
+  email: "nasihulwan1204@gmail.com"
+  links:
+    - title: "LinkedIn"
+      url: "https://linkedin.com/in/nasih1204"
+    - title: "GitHub"
+      url: "https://github.com/"
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-include-cache
+
+# Optional defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
