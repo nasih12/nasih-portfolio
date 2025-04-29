@@ -2,7 +2,7 @@
 
 This repository contains the source code for my personal developer portfolio, built using [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
 
-📍 Live site: [https://nasih12.github.io/nasihu-portfolio](https://nasih12.github.io/nasihulwan-portfolio)
+📍 Live site: [nasih portfolio](https://nasih12.github.io/nasih-portfolio)
 
 ### ✨ Features:
 - Flutter & Backend Projects showcase
